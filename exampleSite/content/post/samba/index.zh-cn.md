@@ -2,9 +2,9 @@
 title: Samba
 description: 
 date: 2023-10-24
-slug: Linux
+slug: samba
 categories:
-    - Samba
+    - Linux
 ---
 +++
 title = 'Samba'
