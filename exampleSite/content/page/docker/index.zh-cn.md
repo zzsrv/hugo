@@ -1,3 +1,15 @@
+---
+title: "Docker"
+date: 2019-05-28
+layout: "archives"
+slug: "archives"
+menu:
+    main:
+        weight: -70
+        params: 
+            icon: archives
+---
+
 # [Docker](https://github.com/zzsrv/Docker)
 
 Docker常用镜像仓库(每日更新到最新版镜像)。
