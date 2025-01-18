@@ -1,13 +1,13 @@
 ---
 title: "Docker"
 date: 2019-05-28
-layout: "archives"
-slug: "archives"
+layout: "docker"
+slug: "docker"
 menu:
     main:
-        weight: -70
+        weight: -88
         params: 
-            icon: archives
+            icon: brand-docker
 ---
 
 # [Docker](https://github.com/zzsrv/Docker)
