@@ -7,7 +7,7 @@ menu:
     main:
         weight: -89
         params: 
-            icon: openwrt
+            icon: router
 ---
 
 # [OpenWrt-Docker](https://github.com/zzsrv/OpenWrt-Docker)
