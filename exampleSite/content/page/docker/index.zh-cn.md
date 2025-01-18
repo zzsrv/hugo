@@ -7,7 +7,7 @@ menu:
     main:
         weight: -88
         params: 
-            icon: brand-docker
+            icon: docker
 ---
 
 # [Docker](https://github.com/zzsrv/Docker)
