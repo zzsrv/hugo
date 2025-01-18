@@ -1,3 +1,15 @@
+---
+title: "OpenWrt"
+date: 2019-05-28
+layout: "archives"
+slug: "archives"
+menu:
+    main:
+        weight: -70
+        params: 
+            icon: archives
+---
+
 # [OpenWrt-Docker](https://github.com/zzsrv/OpenWrt-Docker)
 
 [![GitHub Stars](https://img.shields.io/github/stars/zzsrv/OpenWrt-Docker.svg?style=flat-square&label=Stars&logo=github)](https://github.com/zzsrv/OpenWrt-Docker/stargazers)
