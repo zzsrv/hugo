@@ -1,13 +1,13 @@
 ---
 title: "OpenWrt"
 date: 2019-05-28
-layout: "archives"
-slug: "archives"
+layout: "openwrt"
+slug: "openwrt"
 menu:
     main:
-        weight: -70
+        weight: -89
         params: 
-            icon: archives
+            icon: router
 ---
 
 # [OpenWrt-Docker](https://github.com/zzsrv/OpenWrt-Docker)
