@@ -6,12 +6,6 @@ slug: samba
 categories:
     - Linux
 ---
-+++
-title = 'Samba'
-date = 2023-10-24T09:51:00+08:00
-draft = false
-
-+++
 
 #### 1、Samba简介
 > Samba是著名的开源软件项目之一，它在Linux/UNIX系统中实现了微软的SMB/CIFS网络协议，从而使得跨平台的文件共享变得更加容易。在部署Windows、Linux/UNIX混合平台的企业环境时，选用Samba可以很好地解决不同系统之间的文件互访问题。
