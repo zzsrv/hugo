@@ -5,7 +5,7 @@ layout: "openwrt"
 slug: "openwrt"
 menu:
     main:
-        weight: -89
+        weight: -120
         params: 
             icon: router
 ---
