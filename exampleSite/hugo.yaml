@@ -1,8 +1,8 @@
-baseurl: https://zzsrv.com/
+baseurl: https://z999.top
 languageCode: zh-cn
 theme: hugo-theme-stack
-title: ZZ·SRV
-copyright: zzsrv
+title: Z9
+copyright: Z9
 # Theme i18n support
 # Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
 DefaultContentLanguage: zh-cn
@@ -14,7 +14,7 @@ hasCJKLanguage: true
 languages:
     zh-cn:
         languageName: 中文
-        title: ZZ·SRV
+        title: Z9
         weight: 2
         params:
             sidebar:
